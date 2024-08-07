@@ -17,7 +17,7 @@ A simple contact management system implemented in C, using linked lists for stor
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/contact-management-system.git
+    git clone https://github.com/YuvaSriSai18/contact-management-system.git
     cd contact-management-system
     ```
 
